@@ -1,3 +1,14 @@
+
+
+
+// Counter
+
+$('.counter').countUp({
+    delay: 10,
+    time: 2000
+});
+
+
 //
 
   $(document).ready(function(){
