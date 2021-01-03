@@ -489,14 +489,12 @@ span {
 	background: url(img/gym5.jpg);
 	background-size: cover;
 	background-position: top;
-	height: 100vh;
 }
 
 .bgd-3 {
 	background: url(img/gym8.jpg);
 	background-size: cover;
 	background-position: top;
-	height: 100vh;
 }
 
 .bgd-4 {
@@ -521,6 +519,10 @@ span {
 	background-size: cover;
 	height: auto;
 	background-attachment: fixed;
+}
+
+#our-gym a {
+	width: 100%;
 }
 
 
